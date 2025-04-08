@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "652946446632",
+    "firebase_url": "https://geotrend-5268b.firebaseio.com",
+    "project_id": "geotrend-5268b",
+    "storage_bucket": "geotrend-5268b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:652946446632:android:7f3da9c516bffc703b181d",
+        "android_client_info": {
+          "package_name": "com.example.geotrendclassification"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "652946446632-tpprcv5vh2dvqrs4pba82sjpcjpevrvb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.geotrendclassification",
+            "certificate_hash": "4ee3992186338963eb707abfde896dc5a83bd821"
+          }
+        },
+        {
+          "client_id": "652946446632-oa8ucna28403p63hsj0u84quoa7p5r8q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBNmxbinMhWxzIFhRf4Y0NU9ru6s8iL1Cg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "652946446632-oa8ucna28403p63hsj0u84quoa7p5r8q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
